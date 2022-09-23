@@ -10,11 +10,16 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java2022BootCamp1stWeek.iml" filepath="$PROJECT_DIR$/.idea/Java2022BootCamp1stWeek.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoopDemo/LoopDemo.iml" filepath="$PROJECT_DIR$/LoopDemo/LoopDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditions/Arrays/MultiDimensionalArray/MultiDimensionalArray.iml" filepath="$PROJECT_DIR$/Conditions/Arrays/MultiDimensionalArray/MultiDimensionalArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions/Arrays/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/Conditions/Arrays/StringDemo/StringDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditions/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/Conditions/WhileLoop/WhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions/Arrays/arkadasSayi/arkadasSayi.iml" filepath="$PROJECT_DIR$/Conditions/Arrays/arkadasSayi/arkadasSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions/Arrays/miniProjeAsalSayi/miniProjeAsalSayi.iml" filepath="$PROJECT_DIR$/Conditions/Arrays/miniProjeAsalSayi/miniProjeAsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions/Arrays/mukemmelSayi/mukemmelSayi.iml" filepath="$PROJECT_DIR$/Conditions/Arrays/mukemmelSayi/mukemmelSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/recapDemo2/recapDemo2.iml" filepath="$PROJECT_DIR$/recapDemo2/recapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions/Arrays/sesliHarfler/sesliHarfler.iml" filepath="$PROJECT_DIR$/Conditions/Arrays/sesliHarfler/sesliHarfler.iml" />
     </modules>
   </component>
 </project>
