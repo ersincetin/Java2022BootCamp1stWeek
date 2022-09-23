@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa6a2741-822f-457d-9545-6a34069089a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions/Arrays/StringDemo/StringDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions/Arrays/StringDemo/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions/Arrays/miniProjeAsalSayi/miniProjeAsalSayi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions/Arrays/miniProjeAsalSayi/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions/Arrays/sesliHarfler/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditions/Arrays/arkadasSayi/sayiBulma/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +31,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/eceti/IntelliJProject/Java2022BootCamp"
+    "last_opened_file_path": "C:/Users/eceti/IntelliJProject/Java2022BootCamp1stWeek"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -78,7 +72,8 @@
       <workItem from="1663919763200" duration="10000" />
       <workItem from="1663919782878" duration="1173000" />
       <workItem from="1663921721377" duration="459000" />
-      <workItem from="1663922193004" duration="950000" />
+      <workItem from="1663922193004" duration="1346000" />
+      <workItem from="1663941112133" duration="34000" />
     </task>
     <servers />
   </component>
