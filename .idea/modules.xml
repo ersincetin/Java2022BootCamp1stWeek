@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conditions/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Conditions/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions/Conditions.iml" filepath="$PROJECT_DIR$/Conditions/Conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataTypes/DataTypes.iml" filepath="$PROJECT_DIR$/DataTypes/DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions/DoWhileLoop/DoWhileLoop.iml" filepath="$PROJECT_DIR$/Conditions/DoWhileLoop/DoWhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java2022BootCamp1stWeek.iml" filepath="$PROJECT_DIR$/.idea/Java2022BootCamp1stWeek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopDemo/LoopDemo.iml" filepath="$PROJECT_DIR$/LoopDemo/LoopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions/Arrays/MultiDimensionalArray/MultiDimensionalArray.iml" filepath="$PROJECT_DIR$/Conditions/Arrays/MultiDimensionalArray/MultiDimensionalArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/Conditions/WhileLoop/WhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo2/recapDemo2.iml" filepath="$PROJECT_DIR$/recapDemo2/recapDemo2.iml" />
+    </modules>
+  </component>
+</project>
